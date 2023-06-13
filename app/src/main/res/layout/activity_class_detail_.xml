@@ -7,7 +7,7 @@
     android:fitsSystemWindows="true"
     android:animateLayoutChanges="true"
     android:background="@color/MainBack"
-    tools:context=".ClassDetail_Activity">
+    tools:context=".ClassDetailActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"

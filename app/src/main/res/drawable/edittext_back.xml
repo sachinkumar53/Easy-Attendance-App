@@ -5,5 +5,4 @@
     <stroke android:color="@color/text_color_secondary"
         android:width="1.5dp"/>
 
-
 </shape>

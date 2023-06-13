@@ -10,14 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.ajstudios.easyattendance.Reports_Detail_Activity"
+            android:name="com.ajstudios.easyattendance.ReportsDetailActivity"
             android:theme="@style/AppTheme2" />
-        <activity android:name="com.ajstudios.easyattendance.Reports_Activity" />
+        <activity android:name="com.ajstudios.easyattendance.ReportsActivity" />
         <activity
-            android:name="com.ajstudios.easyattendance.ClassDetail_Activity"
+            android:name="com.ajstudios.easyattendance.ClassDetailActivity"
             android:theme="@style/FullScreenTheme" />
         <activity
-            android:name="com.ajstudios.easyattendance.Insert_class_Activity"
+            android:name="com.ajstudios.easyattendance.InsertClassActivity"
             android:theme="@style/AppTheme2" />
         <activity android:name="com.ajstudios.easyattendance.MainActivity">
             <intent-filter>

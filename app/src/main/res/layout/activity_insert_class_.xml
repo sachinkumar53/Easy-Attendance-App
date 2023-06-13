@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/MainBack"
-    tools:context=".Insert_class_Activity">
+    tools:context=".InsertClassActivity">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar_insert_class"
